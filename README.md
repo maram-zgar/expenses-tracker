@@ -14,3 +14,6 @@ A personal, single-user mobile app for tracking monthly spending — set a start
 - Dashboard with remaining budget at a glance
 - Spending statistics by category and over time
 - No login — fully local/personal use
+
+## Development Notes
+- To visualize the database, run `npx prisma studio` from the `backend` folder — it opens a browser-based table viewer at `localhost:5555`.
